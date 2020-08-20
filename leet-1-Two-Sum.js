@@ -1,4 +1,6 @@
 
+let arr = [2, 7, 11, 15];
+let target = 9;
 
 
 var twoSum = function(nums, target) {
@@ -28,4 +30,4 @@ var twoSum = function(nums, target) {
 
 
 
-console.log(twoSum ([2, 7, 11, 15], 9));
+console.log(twoSum (arr, target));
