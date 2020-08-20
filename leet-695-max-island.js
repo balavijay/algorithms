@@ -16,7 +16,7 @@
 
 
 var maxAreaOfIsland = function(grid) {
-    let maxIsland =0;
+    
     let islandVisited = 2;
     
     const rows = grid.length;
